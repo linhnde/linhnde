@@ -5,10 +5,10 @@ In this portfolio, I include the projects I practiced in various courses. There 
 
 ### 🚖 [Automatidata](https://github.com/linhnde/automatidata)
 
-## 👔 [Salifort Motors](https://github.com/linhnde/salifortMotors)
+### 👔 [Salifort Motors](https://github.com/linhnde/salifortMotors)
 
-## 🚀 [Space Mission](https://github.com/linhnde/spaceMission)
+### 🚀 [Space Mission](https://github.com/linhnde/spaceMission)
 
-## 💰 [Earning Predict](https://github.com/linhnde/earningPredict)
+### 💰 [Earning Predict](https://github.com/linhnde/earningPredict)
 
-##  🦄 [Unicorn Companies](https://github.com/linhnde/unicornCompanies)
+###  🦄 [Unicorn Companies](https://github.com/linhnde/unicornCompanies)
