@@ -11,4 +11,4 @@ In this portfolio, I include the projects I practiced in various courses. There 
 
 ### 💰 [Earning Predict](https://github.com/linhnde/earningPredict)
 
-###  🦄 [Unicorn Companies](https://github.com/linhnde/unicornCompanies)
+### 🦄 [Unicorn Companies](https://github.com/linhnde/unicornCompanies)
